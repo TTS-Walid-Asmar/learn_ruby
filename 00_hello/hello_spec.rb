@@ -113,7 +113,7 @@
 #       "Hello, #{who}!"
 #     end
 #
-require "hello"
+require "hello" # this is file
 
 describe "the hello function" do
   it "says hello" do
